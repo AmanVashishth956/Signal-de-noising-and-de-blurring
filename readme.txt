@@ -1,4 +1,4 @@
-Contents of the Folder : 
+Contents : 
 
 Graphs (contains all the graphs outputted by the code and used in the report)
 readme.txt
